@@ -2,6 +2,8 @@
 
 A Python tool that analyzes the difficulty of English texts based on the CEFR (Common European Framework of Reference) vocabulary grading system (A1–C2).
 
+> 📖 一個分析英文文本難度的 Python 工具，依照 CEFR 分級標準（A1–C2）評估文章或書籍的詞彙難度，並產出 Excel 報告與個人單字庫。
+
 ## Motivation
 
 When self-studying English, it's hard to know whether a book or article is at the right difficulty level. This tool solves that problem by automatically analyzing every word in a text and producing a detailed difficulty report.
