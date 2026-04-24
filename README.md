@@ -78,7 +78,7 @@ python CEFR_vocab_analyzer.py
 
 | File | Description |
 |------|-------------|
-| `[book_name]_report.xlsx` | Difficulty report for the analyzed text |
+| `[book_name]_vocabulary_report.xlsx` | Difficulty report for the analyzed text |
 | `is_known.xlsx` | Personal vocabulary bank (auto-created on first run) |
 
 ## Known Limitations
