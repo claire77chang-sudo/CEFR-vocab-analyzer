@@ -4,8 +4,6 @@ A Python tool that analyzes the difficulty of English texts based on the CEFR (C
 
 > 📖 一個分析英文文本難度的 Python 工具，依照 CEFR 分級標準（A1–C2）評估文章或書籍的詞彙難度，並產出 Excel 報告與個人單字庫。
 
-（以下為英文說明 / English documentation below）
-
 
 ## Motivation
 
