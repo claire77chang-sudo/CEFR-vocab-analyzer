@@ -1,0 +1,27 @@
+# Dictionary data (download separately from https://github.com/skywind3000/ECDICT)
+ecdict.csv
+
+# Input texts
+*.txt
+*.epub
+*.pdf
+
+# Program outputs
+*_report.xlsx
+is_known.xlsx
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
